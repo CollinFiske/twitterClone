@@ -38,7 +38,7 @@ const RegisterModal = () => {
                 password,
                 username,
                 name
-            }) // this does the register in
+            }); // this does the register in
 
             toast.success('Account Created');
 
@@ -60,7 +60,7 @@ const RegisterModal = () => {
     }, [registerModal, email, password, username, name]);
 
     const bodyContent = (
-        <div className="flex flex-col gap-4">
+        <div className="text-black flex flex-col gap-4">
             <Input
                 placeholder="Email"
                 onChange={(e) => setEmail(e.target.value)}

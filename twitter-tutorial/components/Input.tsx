@@ -30,7 +30,7 @@ const Input: React.FC<InputProps> = ({
                 border-neutral-800
                 rounded-md
                 outline-none
-                text-white
+                text-black
                 focus:border-sky-500
                 foucs:border-2
                 transition
