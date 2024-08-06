@@ -1,4 +1,4 @@
-import useLoginModal from "@/hooks/UseLoginModal";
+import useLoginModal from "@/hooks/useLoginModal";
 import { useCallback, useState } from "react";
 import Input from "../Input";
 import Modal from "../Modal";

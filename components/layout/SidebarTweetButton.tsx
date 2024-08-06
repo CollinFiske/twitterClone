@@ -2,7 +2,7 @@ import { useRouter } from "next/router";
 import { useCallback } from "react";
 import { FaFeather } from "react-icons/fa6";
 import LoginModal from "../modals/LoginModal";
-import useLoginModal from "@/hooks/UseLoginModal";
+import useLoginModal from "@/hooks/useLoginModal";
 
 const SidebarTweetButton = () => {
     const router = useRouter();
