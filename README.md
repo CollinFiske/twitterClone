@@ -1,4 +1,4 @@
-## This is a twitter clone created from an online tutorial for practice in js, nextjs, tailwind, and mongodb
+## This is a twitter clone created from an online tutorial for practice in js, nextjs, tailwind, prisma, and mongodb
 
 
 
